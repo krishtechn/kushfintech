@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 728.99">
+    <defs>
+        <style>
+            .cls-1 {
+                font-size: 118.84px;
+                fill: #a9bccd;
+                font-family: Poppins-Bold, Poppins;
+                font-weight: 700;
+                letter-spacing: 0.1em;
+            }
+
+            .cls-2 {
+                fill: url(#Degradado_sin_nombre_950);
+            }
+
+            .cls-3 {
+                fill: url(#Degradado_sin_nombre_926);
+            }
+
+            .cls-4 {
+                fill: url(#linear-gradient);
+            }
+
+            .cls-5 {
+                fill: url(#linear-gradient-2);
+            }
+
+            .cls-6 {
+                fill: url(#Degradado_sin_nombre_926-2);
+            }
+
+            .cls-7 {
+                fill: url(#linear-gradient-3);
+            }
+
+            .cls-8 {
+                fill: url(#linear-gradient-4);
+            }
+
+            .cls-9 {
+                fill: url(#linear-gradient-5);
+            }
+
+            .cls-10 {
+                fill: url(#linear-gradient-6);
+            }
+        </style>
+        <linearGradient id="Degradado_sin_nombre_950" x1="428.42" y1="609.34" x2="776.02" y2="609.34"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#46edff" />
+            <stop offset="0.31" stop-color="#247aff" />
+            <stop offset="0.51" stop-color="#9b46ff" />
+            <stop offset="0.74" stop-color="#f441ff" />
+            <stop offset="1" stop-color="#ffa9ff" />
+        </linearGradient>
+        <linearGradient id="Degradado_sin_nombre_926" x1="2541.32" y1="2732.14" x2="2922.63" y2="2350.83"
+            gradientTransform="matrix(-0.71, -0.71, -0.71, 0.71, 4865.53, 404.32)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6418b0" />
+            <stop offset="0.01" stop-color="#661ab3" />
+            <stop offset="0.08" stop-color="#792acf" />
+            <stop offset="0.16" stop-color="#8836e4" />
+            <stop offset="0.25" stop-color="#933ff3" />
+            <stop offset="0.35" stop-color="#9944fc" />
+            <stop offset="0.5" stop-color="#9b46ff" />
+            <stop offset="1" stop-color="#b880ff" />
+        </linearGradient>
+        <linearGradient id="linear-gradient" x1="-7450.67" y1="533.14" x2="-7641.14" y2="342.67"
+            gradientTransform="matrix(-1, 0, 0, 1, -6702.52, 0.08)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffa9ff" />
+            <stop offset="0.28" stop-color="#ff67ff" />
+            <stop offset="0.48" stop-color="#ff3dff" />
+            <stop offset="0.58" stop-color="#ff2dff" />
+            <stop offset="0.68" stop-color="#f928fa" />
+            <stop offset="0.81" stop-color="#e81bea" />
+            <stop offset="0.96" stop-color="#cb06d1" />
+            <stop offset="1" stop-color="#c300ca" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="837.25" y1="151.75" x2="1028.25" y2="342.74"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#8127ff" />
+            <stop offset="0.43" stop-color="#bd37ff" />
+            <stop offset="0.63" stop-color="#cd3aff" />
+            <stop offset="1" stop-color="#f441ff" />
+        </linearGradient>
+        <linearGradient id="Degradado_sin_nombre_926-2" x1="455.93" y1="443.45" x2="837.23" y2="62.15"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#Degradado_sin_nombre_926" />
+        <linearGradient id="linear-gradient-3" x1="176.06" y1="5154.89" x2="456.44" y2="4874.51"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 5407.36)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#3597ff" />
+            <stop offset="0.58" stop-color="#4c53de" />
+            <stop offset="0.73" stop-color="#4d4edb" />
+            <stop offset="0.9" stop-color="#5140d1" />
+            <stop offset="1" stop-color="#5434ca" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-4" x1="265.45" y1="5154.67" x2="455.93" y2="5345.14"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 5407.36)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2b55e3" />
+            <stop offset="0.27" stop-color="#247aff" />
+            <stop offset="1" stop-color="#46edff" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-5" x1="8.44" y1="207.25" x2="389.74" y2="-174.05"
+            gradientTransform="translate(-86.69 395) rotate(-44)" xlink:href="#Degradado_sin_nombre_926" />
+        <linearGradient id="linear-gradient-6" x1="145.83" y1="723.57" x2="1058.47" y2="723.57"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#46edff" />
+            <stop offset="0.26" stop-color="#247aff" />
+            <stop offset="0.52" stop-color="#9b46ff" />
+            <stop offset="0.79" stop-color="#f441ff" />
+            <stop offset="1" stop-color="#ffa9ff" />
+        </linearGradient>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="KUSH">
+            <g id="KUSH-2" data-name="KUSH"><text class="cls-1" transform="translate(421.05 651.23)">KUSH</text>
+                <path class="cls-2"
+                    d="M476.78,651.23l-28-36.84v36.84H428.42V567.8h20.32v36.61l27.81-36.61h23.88l-32.32,40.89,33.51,42.54Z" />
+                <path class="cls-2"
+                    d="M543.1,567.8v49.92q0,7.49,3.68,11.53t10.81,4q7.14,0,10.94-4t3.8-11.53V567.8h20.32v49.8q0,11.17-4.75,18.89a30.36,30.36,0,0,1-12.78,11.65,40.07,40.07,0,0,1-17.88,3.92,39.11,39.11,0,0,1-17.65-3.86,28.76,28.76,0,0,1-12.3-11.65q-4.51-7.77-4.52-18.95V567.8Z" />
+                <path class="cls-2"
+                    d="M632.58,649.09A26.81,26.81,0,0,1,621,640.3a24.05,24.05,0,0,1-4.57-14h21.63a10.47,10.47,0,0,0,3.21,7.08,10.33,10.33,0,0,0,7.13,2.43,11.14,11.14,0,0,0,7.13-2.08,7,7,0,0,0,2.61-5.76,6.81,6.81,0,0,0-2.08-5.11,16.62,16.62,0,0,0-5.11-3.33,82.87,82.87,0,0,0-8.61-3,94,94,0,0,1-13.2-5,24.5,24.5,0,0,1-8.79-7.37q-3.69-4.87-3.68-12.72,0-11.64,8.43-18.24t22-6.59q13.78,0,22.22,6.59t9,18.36h-22a8.63,8.63,0,0,0-3-6.36,10.48,10.48,0,0,0-7-2.31,8.75,8.75,0,0,0-6,2,7.09,7.09,0,0,0-2.25,5.64,7,7,0,0,0,3.8,6.3,61.86,61.86,0,0,0,11.88,4.87A112.1,112.1,0,0,1,667,606.9a25.14,25.14,0,0,1,8.73,7.25q3.69,4.76,3.69,12.24a24,24,0,0,1-3.63,13,25.42,25.42,0,0,1-10.52,9.27A36,36,0,0,1,649,652.06,42.92,42.92,0,0,1,632.58,649.09Z" />
+                <path class="cls-2"
+                    d="M776,567.8v83.43H755.7V616.89H724.09v34.34H703.77V567.8h20.32v32.69H755.7V567.8Z" />
+            </g>
+        </g>
+        <g id="_7" data-name="7">
+            <polygon id="_7-2" data-name="7" class="cls-3"
+                points="1199.68 126.73 1200 126.63 1200 539.05 1073.27 539.24 1073.27 0 1199.68 126.73" />
+        </g>
+        <g id="_6" data-name="6">
+            <polygon id="_6-2" data-name="6" class="cls-4"
+                points="983.29 387.69 882.56 488.41 703.34 488.41 893.83 297.95 983.29 387.69" />
+        </g>
+        <g id="_5" data-name="5">
+            <polygon id="_5-2" data-name="5" class="cls-5"
+                points="1073.27 297.72 882.49 106.95 882.04 106.95 792.52 196.48 983.22 387.77 1073.27 297.72" />
+        </g>
+        <g id="_4" data-name="4">
+            <polygon id="_4-2" data-name="4" class="cls-6"
+                points="703.04 107.18 702.89 106.88 411.26 398.51 500.74 488.26 882.04 106.95 703.04 107.18" />
+        </g>
+        <g id="_3" data-name="3">
+            <polygon id="_3-2" data-name="3" class="cls-7"
+                points="321.81 488.26 131.03 297.49 221.08 207.45 501.04 488.26 321.81 488.26" />
+        </g>
+        <g id="_2" data-name="2">
+            <polygon id="_2-2" data-name="2" class="cls-8"
+                points="220.78 207.75 321.51 107.03 500.74 107.03 310.25 297.49 220.78 207.75" />
+        </g>
+        <g id="_1" data-name="1">
+            <polygon id="_1-2" data-name="1" class="cls-9"
+                points="7.51 124.67 7.2 124.56 0 536.92 126.71 539.33 136.12 0.17 7.51 124.67" />
+        </g>
+        <g id="Underline">
+            <rect id="Underline-2" data-name="Underline" class="cls-10" x="145.83" y="718.15" width="912.64"
+                height="10.84" />
+        </g>
+    </g>
+</svg>
